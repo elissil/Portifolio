@@ -10,7 +10,7 @@
   margin-left: 15px;
   text-decoration: none;
   font-weight: bold;
-  color: black;
+  color: #942aae;
   padding: 5px;
   font-size: 30px;
 }
@@ -31,7 +31,7 @@
 .link-a-2 {
   background-color: transparent;
   border: blue solid 2px;
-  color: rgb(146, 11, 11);
+  color: rgb(183, 20, 166);
   font-weight: bold;
 }
 .span-1,
@@ -42,10 +42,10 @@
 }
 
 .span-1 {
-  color: #000000;
+  color: #4000f8;
 }
 .span-2 {
-  color: #6c6c6c;
+  color: #942aae;
 }
 
 .secao-1 {
