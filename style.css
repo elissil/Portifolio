@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .header {
   padding: 30px 25px 15px;
 }
@@ -62,14 +66,14 @@
 .secao-1 h1 {
   font-weight: bold;
   font-size: 60px;
-  color: white;
+  color: rgb(24, 1, 1);
 }
 
 .secao-1 h2 {
-  color: white;
+  color: rgb(27, 27, 27);
 }
 .secao-1 h4 {
-  color: #eeeef1;
+  color: #00000e;
   font-size: 40px;
 }
 
@@ -84,7 +88,7 @@
 }
 
 p {
-  color: #ffffff;
+  color: #342f2f;
   font-size: 25px;
   text-size-adjust: 50px;
   font-style: oblique;
@@ -95,4 +99,10 @@ p {
   background-color: #2be605;
   color: #2be605;
   text-size-adjust: green;
+}
+
+.h1 {
+  width: 100%;
+  background-color: #181dbb;
+  height: 300%;
 }
