@@ -7,7 +7,7 @@
 }
 .links {
   display: inline;
-  margin-left: 900px;
+  margin-left: 10%;
 }
 
 .links a {
@@ -108,10 +108,14 @@ p {
 }
 
 .btn-primary {
-  background-color: #efedef;
+  background-color: #cacaca;
 }
 .h1 {
   width: 1500%;
   background-color: #2be605;
   color: #181dbb;
+}
+
+.container {
+  min-height: 100vh;
 }
